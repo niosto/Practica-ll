@@ -22,7 +22,7 @@ El programa sigue estos pasos:
 6. **Salida**: Se muestran los códigos canónicos y los códigos concatenados en función de los caracteres ingresados.
 
 ## Explicación
-Puede hallarse un video explicando el funcionamiento del código en el siguiente video de YouTube: 
+Puede hallarse un video explicando el funcionamiento del código en el siguiente video de YouTube: https://youtu.be/iOu6i6FEDxM
 
 ## Como correr el programa
 
